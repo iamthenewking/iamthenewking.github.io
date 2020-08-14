@@ -1,12 +1,12 @@
 ---
-title: Markdown Example 2
+title: Markdown Example 3
 date: 2018-01-11 00:00:00 Z
 categories:
 - Jekyll
 - tutorial
-layout: post
 author: jeff
 image: assets/images/6.jpg
+layout: post
 ---
 
 Lorem!!!!!!!!!!!!!!!!!!!
