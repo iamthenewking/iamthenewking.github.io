@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Write for Us
+layout: page
 comments: false
 ---
 

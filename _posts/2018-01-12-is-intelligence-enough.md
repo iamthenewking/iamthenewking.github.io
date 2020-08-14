@@ -1,10 +1,14 @@
 ---
+title: Is Intelligence Enough
+date: 2018-01-12 00:00:00 Z
+categories:
+- Jekyll
+- tutorial
 layout: post
-title:  "Is Intelligence Enough"
 author: jeff
-categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---
+
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
 > We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
