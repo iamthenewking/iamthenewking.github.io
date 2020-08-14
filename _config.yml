@@ -39,6 +39,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+    permalink: /404.html
     
 # Other
 markdown: kramdown
