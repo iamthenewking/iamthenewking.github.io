@@ -6,7 +6,7 @@ meta_description: "Deals Guides and Tips to Save and Make Money Every Day"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 paginate: 12
-baseurl: ''
+baseurl: '/'
 email: 'mrgabonijeff@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'iddeals'
