@@ -4,6 +4,7 @@ title:  "How to Make Money on Fiverr"
 author: jeff
 categories: [ fiverr, make money ]
 image: assets/images/10-ways-to-make-money-on-Fiverr.png
+featured: true
 ---
 ### **What Is Fiverr Exactly?** 
 
