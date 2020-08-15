@@ -4,7 +4,7 @@ date: 2018-01-12 00:00:00 Z
 tags:
 - make money
 image: assets/images/1.jpg
-featured: true
+featured: false
 layout: post-right-sidebar
 ---
 
