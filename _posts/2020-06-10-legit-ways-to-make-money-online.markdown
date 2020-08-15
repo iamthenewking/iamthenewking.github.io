@@ -1,7 +1,7 @@
 ---
 title: Legit Ways  to Increase Your Income While Working from Home
 date: 2020-06-10 06:14:00 Z
-image: "/uploads/LegitWaystoIncreaseYourIncomeWhileWorkingfromHome.jpg"
+image: uploads/LegitWaystoIncreaseYourIncomeWhileWorkingfromHome.jpg
 featured: false
 ---
 
