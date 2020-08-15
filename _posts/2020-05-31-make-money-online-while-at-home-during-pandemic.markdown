@@ -3,6 +3,7 @@ title: How to Make Money Online While at Home During Lockdown
 date: 2020-05-31 06:37:00 Z
 image: uploads/moneyduringpandemic.png
 featured: false
+layout: post-right-sidebar
 ---
 
 As the pandemic coronavirus continues to rise, economies across the globe continue to drop and most of the global companies are closing and urging employees to stay and work at home,
