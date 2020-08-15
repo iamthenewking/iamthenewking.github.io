@@ -1,7 +1,7 @@
 ---
 title: How to Make Money Taking Online Surveys?
 date: 2020-06-01 06:34:00 Z
-image: "/uploads/How-to-Make-Money-Online-through-Online-Surveys.jpg"
+image: uploads/How-to-Make-Money-Online-through-Online-Surveys.jpg
 featured: false
 ---
 
