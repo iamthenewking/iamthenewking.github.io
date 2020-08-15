@@ -2,7 +2,7 @@
 title: 'Make Money On Fiverr.Com : A Beginners Guide'
 date: 2020-06-28 05:49:00 Z
 image: uploads/10-ways-to-make-money-on-Fiverr.png
-featured: true
+featured: false
 ---
 
 Basically, [Fiverr.com](https://track.fiverr.com/visit/?bta=116041&nci=7416) is a web platform for trading or exchanging services in digital media. I purchase and you deliver whatever can be given digitally, actually whatever.
