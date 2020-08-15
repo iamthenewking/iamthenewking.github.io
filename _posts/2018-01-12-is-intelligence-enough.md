@@ -1,12 +1,12 @@
 ---
-title: Is Intelligence Enough
+title: Is Intelligence Enough 2
 date: 2018-01-12 00:00:00 Z
 categories:
 - Jekyll
 - tutorial
-layout: post
 author: jeff
 image: assets/images/5.jpg
+layout: post
 ---
 
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
