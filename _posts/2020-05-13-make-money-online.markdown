@@ -2,7 +2,7 @@
 title: 10 Practical Methods to Make Money Online
 date: 2020-05-13 07:01:00 Z
 image: uploads/Make-Money-Online-1.jpg
-featured: true
+featured: false
 ---
 
 Making money online or successfully running an online business is the dream of every internet entrepreneur. But this dream is not so easily achievable, not because of the lack of hard work, but due to the presence of too much unreliable and often fraud means on the internet. For that, we have come up with these the simplest way to make money online.. be sure to check out!!
