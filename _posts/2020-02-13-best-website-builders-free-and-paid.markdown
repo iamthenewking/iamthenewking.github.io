@@ -7,38 +7,6 @@ featured: false
 
 So you finally decided to create your own website, huh? Congrats on that. Now you must be finding an easy way to create that website, a website builder, maybe? No wonder you are confused. There are so many out there with similar offerings. Anyone can get confused. Let’s solve the puzzle a bit and see if we can find some winners for *Website Builder for 2020*
 
-We will review the following 15 website builders:
-
- 1. [WordPress.org](#WordPress.org)
-
- 2. [WordPress.com](#WordPress.com)
-
- 3. [Wix](#Wix)
-
- 4. [Shopify](#Shopify)
-
- 5. [BoldGrid](#BoldGrid)
-
- 6. [Weebly](#Weebly)
-
- 7. [Squarespace](#Squarespace)
-
- 8. [iPage Website Builder](#iPage)
-
- 9. [GoDaddy Website Builder](#GoDaddy)
-
-10. [Web.com](#Web.com)
-
-11. [Webs.com](#Webs.com)
-
-12. [Site 123](#Site123)
-
-13. [Webnode](#Webnode)
-
-14. [Site Builder](#SiteBuilder)
-
-15. [Jimdo](#Jimdo)
-
 ## **1. [WordPress.org](https://wordpress.org/)**
 
 ![WordPress-logotype-standard-1024x348.png](/uploads/WordPress-logotype-standard-1024x348.png)
@@ -515,4 +483,4 @@ The basic version has limited features and it is free. JimdoPro starts at **$7.5
 
 **Advertisement:**
 
-[![vtads.jpg](/uploads/vtads.jpg)](https://virtualoustech.com/)
+![vtads.jpg](/uploads/vtads.jpg)
