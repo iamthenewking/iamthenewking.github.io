@@ -2,7 +2,7 @@
 title: How to Start Your Own Successful Blog And Make money!
 date: 2020-06-13 06:08:00 Z
 image: uploads/How-to-Start-a-Blog.jpg
-featured: true
+featured: false
 ---
 
 **What is a blog in any way?**
