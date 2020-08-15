@@ -1,7 +1,7 @@
 ---
 title: The Right Way to Split Bills with Roommates
 date: 2020-06-09 06:17:00 Z
-image: "/uploads/Whos-Covering-the-Paper-Towels.jpg"
+image: uploads/Whos-Covering-the-Paper-Towels.jpg
 featured: false
 ---
 
