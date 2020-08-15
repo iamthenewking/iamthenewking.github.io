@@ -3,6 +3,7 @@ title: How to Make Money on Instagram in 2020
 date: 2020-06-01 06:29:00 Z
 image: uploads/how-to-make-money-on-instagram-.png
 featured: false
+layout: post-right-sidebar
 ---
 
 Instagram is seemingly a very simple social media platform. Compared with the likes of Facebook or even Twitter, Instagram has an extremely narrow focus: posting images.
