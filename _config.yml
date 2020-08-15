@@ -1,18 +1,24 @@
-# Site
-name: "internetdailydeals"
-title: "Internet Daily Deals"
-description: "Deals Guides and Tips"
-meta_description: "Deals Guides and Tips to Save and Make Money Every Day"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.png'
-paginate: 12
-baseurl: '/'
-email: 'mrgabonijeff@gmail.com'
-google_analytics: 'UA-46278016-1'
-disqus: 'iddeals'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5f35e0d1c919be0012290b78&product=sticky-share-buttons"></script>'
-
-# Authors
+---
+title: Internet Daily Deals
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: internetdailydeals
+description: Deals Guides and Tips
+meta_description: Deals Guides and Tips to Save and Make Money Every Day
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+paginate: 6
+baseurl: "/"
+email: mrgabonijeff@gmail.com
+google_analytics: UA-46278016-1
+disqus: iddeals
+sharethis: <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5f35e0d1c919be0012290b78&product=sticky-share-buttons"></script>
 authors:
   jeff:
     name: Jeff
@@ -21,26 +27,19 @@ authors:
     email: mrgabonijeff@gmail.com
     web: https://www.internetdailydeals.com
     twitter: https://facebook.com/internetdailydeals
-    description: "InternetDailyDeals.Com is a personal finance blog focused on helping young people make money online and take control of their money!"
-  
-
-# Plugins
-plugins: 
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-        
-# Archives
+    description: InternetDailyDeals.Com is a personal finance blog focused on helping
+      young people make money online and take control of their money!
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
+- jekyll-admin
 jekyll-archives:
   enabled:
-    - categories
-  layout: archive
+  - categories
   permalinks:
-    category: '/category/:name/'
-    permalink: /404.html
-    
-# Other
+    category: "/category/:name/"
 markdown: kramdown
 highlighter: rouge

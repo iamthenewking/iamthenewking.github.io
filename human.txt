@@ -1,0 +1,50 @@
+  _                 _   _                              _    _             
+ (_)               | | | |                            | |  (_)            
+  _  __ _ _ __ ___ | |_| |__   ___ _ __   _____      _| | ___ _ __   __ _ 
+ | |/ _` | '_ ` _ \| __| '_ \ / _ \ '_ \ / _ \ \ /\ / / |/ / | '_ \ / _` |
+ | | (_| | | | | | | |_| | | |  __/ | | |  __/\ V  V /|   <| | | | | (_| |
+ |_|\__,_|_| |_| |_|\__|_| |_|\___|_| |_|\___| \_/\_/ |_|\_\_|_| |_|\__, |
+                                                                     __/ |
+                                                                    |___/ 
+                                                                    
+                                                                    
+                                                                    
+Made with love in Isabela.
+
+Jeffrey Gaboni
+@iamthenewking
+
+
+
+
+
+TECHNOLOGY
+----------
+
+
+Ruby Programming Language
+https://www.ruby-lang.org/en/
+
+Jekyll - Static site generator
+jekyllrb.com
+
+Sass - CSS pre-processor
+sass-lang.com
+
+Liquid - Templating
+shopify.github.io/liquid
+
+
+GitHub - Code collaboration & hosting
+github.com
+
+JavaScript libraries include:
+jQuery
+
+
+TOOLS
+-----
+
+
+Visual Studio Code - Code Editing. Redefined
+https://code.visualstudio.com/
