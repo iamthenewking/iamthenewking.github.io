@@ -3,6 +3,7 @@ title: How to Make Money Blogging
 date: 2020-01-02 17:31:00 Z
 image: uploads/Can-You-Make-Money-Blogging.png
 featured: true
+layout: post-right-sidebar
 ---
 
 How to start a blog and make money
