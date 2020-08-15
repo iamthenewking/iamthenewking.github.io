@@ -1,5 +1,5 @@
 ---
-title: Is Intelligence Enough 2
+title: Is Intelligence Enough
 date: 2018-01-12 00:00:00 Z
 categories:
 - Jekyll
