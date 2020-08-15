@@ -5,7 +5,9 @@ image: uploads/10-ways-to-make-money-on-Fiverr.png
 featured: true
 ---
 
-**What Is Fiverr Exactly?**Basically, [Fiverr.com](https://track.fiverr.com/visit/?bta=116041&nci=7416) is a web platform for trading or exchanging services in digital media. I purchase and you deliver whatever can be given digitally, actually whatever.
+**What Is Fiverr Exactly?**
+
+Basically, [Fiverr.com](https://track.fiverr.com/visit/?bta=116041&nci=7416) is a web platform for trading or exchanging services in digital media. I purchase and you deliver whatever can be given digitally, actually whatever.
 
 Imagination ruled on this platform and compared it with online platforms like Upwork and Freelancer. It is less expert or professional, to be sure. That less expert can be both acceptable and awful. It is acceptable in light of the fact that you have less boundary to entry and you can rapidly begin making cash.
 
