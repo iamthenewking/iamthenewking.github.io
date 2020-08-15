@@ -2,7 +2,7 @@
 title: We all wait for summer
 date: 2018-01-12 00:00:00 Z
 image: assets/images/1.jpg
-featured: false
+featured: true
 layout: post-right-sidebar
 ---
 
