@@ -3,6 +3,7 @@ title: 'WordPress Vs Shopify: Figure out Which One Is Better?'
 date: 2020-03-17 06:59:00 Z
 image: uploads/WodpressVSshopify.png
 featured: false
+layout: post-right-sidebar
 ---
 
 An increasing number of demands for websites has increased the number of platforms available for website creation. All the platforms contain a wide range of features and functionalities that differ from each platform from another. But the two best website creation platforms are WordPress and Shopify.\
