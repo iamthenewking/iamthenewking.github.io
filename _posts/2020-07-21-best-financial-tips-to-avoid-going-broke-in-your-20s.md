@@ -4,7 +4,7 @@ date: 2020-07-21 00:00:00 Z
 tags:
 - make money
 image: uploads/GettyImages-594832477_411045.jpg
-featured: false
+featured: true
 layout: post-right-sidebar
 ---
 
