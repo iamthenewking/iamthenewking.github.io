@@ -1,7 +1,7 @@
 ---
 title: 'Make Money On Fiverr.Com : A Beginners Guide'
 date: 2020-06-28 05:49:00 Z
-image: "/uploads/10-ways-to-make-money-on-Fiverr.png"
+image: uploads/10-ways-to-make-money-on-Fiverr.png
 featured: true
 ---
 
