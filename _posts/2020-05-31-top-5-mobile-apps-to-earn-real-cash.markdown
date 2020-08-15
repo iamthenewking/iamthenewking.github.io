@@ -3,6 +3,7 @@ title: Top 5 Mobile Apps to Earn Real Cash
 date: 2020-05-31 06:51:00 Z
 image: uploads/5app-to-make-money-online.jpg
 featured: false
+layout: post-right-sidebar
 ---
 
 Most apps require you to spend money, but did you know that there are apps you can use to make money instead?
