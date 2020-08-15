@@ -5,7 +5,7 @@ categories:
 - Jekyll
 - tutorial
 image: assets/images/1.jpg
-featured: true
+featured: false
 layout: post-right-sidebar
 ---
 
