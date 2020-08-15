@@ -3,6 +3,7 @@ title: Best Job Search Sites to Help Find Your Next Dream Job
 date: 2020-05-31 06:41:00 Z
 image: uploads/1586470763.png
 featured: true
+layout: post-right-sidebar
 ---
 
 Try out a few of the top job sites, listed in alphabetical order, to see which works best for you.
