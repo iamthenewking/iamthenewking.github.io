@@ -33,8 +33,6 @@ For those individuals whose current job is internet based, it is conceivable tha
 
 > **Also Read: [12 Legitimate Strategies to Make Money Online](https://internetdailydeals.com/2020/01/02/how-to-make-money-online.html)**
 
-\\
-
 \
 The number of employers that see the advantages of distant employees is expanding as work/life balance is of more noteworthy significance to most people. Employees that can bring in cash on the road tend to increase productivity, have more flexibility, and can even diminish expenses, for example, office space.
 
@@ -53,7 +51,7 @@ Since these companies are newer and still growing, they are not employing everyw
 Do you have an skill you can advertise on the web? Numerous organizations and people are searching for help with graphic design, [website development](https://virtualoustech.com/), writing, editing, and more. There are numerous platforms to utilize where freelancers can connect with the individuals who need their services.
 
 > \
-> **Affordable Web Design Company: **
+> **Affordable Web Design Company:** 
 >
 > ![vtads-d86d8d.jpg](/uploads/vtads-d86d8d.jpg)
 
