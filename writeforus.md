@@ -1,10 +1,10 @@
 ---
 title: Write for Us
-layout: page
 comments: false
+layout: page
 ---
 
-![Write for Us](https://www.internetdailydeals.com/content/uploads/pages/28724a57d4b8b656b04f67815d0863b5/write-for-us.jpg)
+![write-for-us.jpg](/uploads/write-for-us.jpg)
 
 We’re always looking for fresh new voices to write articles for us. So, if you have an idea that will interest our readers and help them grow, we will be glad to hear from you!
 
@@ -44,8 +44,9 @@ Articles that have 900–1,500 words.  These articles must be casual in tone an
 
 ### What You Get
 
-*   An organic link to your site or business site within the author byline.
-*   We’ll promote your guest post across our social channels.
+* An organic link to your site or business site within the author byline.
+
+* We’ll promote your guest post across our social channels.
 
 ### How to Submit
 
@@ -66,4 +67,3 @@ If we accept your article we’ll schedule your publication as soon as the revis
 Questions are welcome too.
 
 **We hope to hear from you soon!**
-
