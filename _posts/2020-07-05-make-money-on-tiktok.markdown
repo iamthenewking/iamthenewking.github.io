@@ -1,7 +1,7 @@
 ---
 title: How to Make Money on Tiktok
 date: 2020-07-05 06:25:00 Z
-image: uploads/makemoneyomtiktok.png
+image: uploads/makemoneyontiktok.jpeg
 featured: false
 layout: post-right-sidebar
 ---
