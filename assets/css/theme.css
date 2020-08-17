@@ -1,9 +1,4 @@
-/*
-Template Name:Affiliates
-Copyright:WowThemes.net,https://www.wowthemes.net
-Version:1.0.2
-License: https://www.wowthemes.net/freebies-license/
-*/
+ 
 body {
     font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
     overflow-x: hidden;
@@ -326,12 +321,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-image:url(../images/head.jpg);
-    background-size:cover;
-    padding: 9rem 0;
-    margin-top:-87px;
-    margin-bottom:3.5rem;
-    z-index: 1;
+    
     position: relative;
 }
 .intro .btn {
@@ -357,8 +347,8 @@ span.post-name a,span.post-read-more a:hover {
 }
 .wrapintro {
     background: #fff;
-    width: 700px;
-    padding: 3rem;
+    width: 696px;
+    padding: 0;
     max-width: 90%;
     margin: 0px auto;
     text-align: center;
