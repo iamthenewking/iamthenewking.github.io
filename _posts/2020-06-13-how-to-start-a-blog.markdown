@@ -54,13 +54,19 @@ Get your blog on the internet. Get a domain name, like [www.internetdailydeals.c
 
 **Compose and publish your first post.** The fun part!
 
-\*\*Promote your blog. \*\*Get more individuals to read your blog.
+## Promote your blog. 
 
-### **How to promote your blog**
+Get more individuals to read your blog.
 
-\*\*Guest posts: \*\*One of the fastest ways to grow your blog is by writing for other people’s blogs; in other words, you can look for a blog that is much bigger than yours and write an article for that blog. You’ll be allowed to have a bio that includes a link to your site in your guest post. This can result in a lot of traffic for you.
+## **How to promote your blog**
 
-\*\*Syndicate your content to top blogs: \*\*Many top blogs in your niche will allow you to republish content on their site with credit back to you; most big blogs will do it if they feel that your content is good enough. Look for a list of publications and network sites in your industry that republish content, my go-to website to republish contents is on [Medium.Com](https://medium.com/)
+**Guest posts: **
+
+One of the fastest ways to grow your blog is by writing for other people’s blogs; in other words, you can look for a blog that is much bigger than yours and write an article for that blog. You’ll be allowed to have a bio that includes a link to your site in your guest post. This can result in a lot of traffic for you.
+
+**Syndicate your content to top blogs: **
+
+Many top blogs in your niche will allow you to republish content on their site with credit back to you; most big blogs will do it if they feel that your content is good enough. Look for a list of publications and network sites in your industry that republish content, my go-to website to republish contents is on [Medium.Com](https://medium.com/)
 
 **Include social share buttons on your blog: **
 
