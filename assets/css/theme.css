@@ -321,8 +321,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    
-    position: relative;
+    /* position: relative; */
 }
 .intro .btn {
     background: #fff100;
@@ -347,7 +346,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .wrapintro {
     background: #fff;
-    width: 696px;
+    /* width: 696px; */
     padding: 0;
     max-width: 90%;
     margin: 0px auto;
