@@ -34,7 +34,7 @@ At its heart, blogging is tied with sharing your insights and knowledge to the w
 
 **Share the world with your story.** A blog allows you to have a voice and be heard. You can share your story with the whole world in the event that you so choose. One of the most widely recognized ways online blogs are daily journals or a diary where the blogger writes and shares their day by day experience with the goal that their family and friends would all be able to be a part of their lives.
 
-**Recognition for yourself or your business. **No, you presumably won't have paparazzi chasing after you due to your most recent blog post. Be that as it may, an effective or successful blog accomplishes your ideas, and can pick up you a huge amount of recognition in your individual field. Numerous bloggers are known as experts just because their blogs and some have even gotten books and movies based on their blogs.
+\*\*Recognition for yourself or your business. \*\*No, you presumably won't have paparazzi chasing after you due to your most recent blog post. Be that as it may, an effective or successful blog accomplishes your ideas, and can pick up you a huge amount of recognition in your individual field. Numerous bloggers are known as experts just because their blogs and some have even gotten books and movies based on their blogs.
 
 **Find a network or a community.** Blogging at its heart is interactive. You compose a blog entry and readers comment on it. This is an incredible method to connect with individuals who are interested in things as you are. Blogging allows you to teach and share your knowledge based on your experience, and it gives you the chance to gain from your readers also.
 
@@ -54,20 +54,24 @@ Get your blog on the internet. Get a domain name, like [www.internetdailydeals.c
 
 **Compose and publish your first post.** The fun part!
 
-**Promote your blog. **Get more individuals to read your blog.
+\*\*Promote your blog. \*\*Get more individuals to read your blog.
 
 ### **How to promote your blog**
 
-**Guest posts: **One of the fastest ways to grow your blog is by writing for other people’s blogs; in other words, you can look for a blog that is much bigger than yours and write an article for that blog. You’ll be allowed to have a bio that includes a link to your site in your guest post. This can result in a lot of traffic for you.
+\*\*Guest posts: \*\*One of the fastest ways to grow your blog is by writing for other people’s blogs; in other words, you can look for a blog that is much bigger than yours and write an article for that blog. You’ll be allowed to have a bio that includes a link to your site in your guest post. This can result in a lot of traffic for you.
 
-**Syndicate your content to top blogs: **Many top blogs in your niche will allow you to republish content on their site with credit back to you; most big blogs will do it if they feel that your content is good enough. Look for a list of publications and network sites in your industry that republish content, my go-to website to republish contents is on [Medium.Com](https://medium.com/)
+\*\*Syndicate your content to top blogs: \*\*Many top blogs in your niche will allow you to republish content on their site with credit back to you; most big blogs will do it if they feel that your content is good enough. Look for a list of publications and network sites in your industry that republish content, my go-to website to republish contents is on [Medium.Com](https://medium.com/)
 
-**Include social share buttons on your blog: **Many bloggers fail to include social sharing buttons on their blogs and this is costing these bloggers social shares, exposure, and traffic. While it is not clear to what extent, research shows that adding social share buttons to your page will lead to more shares of your content and as a result increased traffic.
+**Include social share buttons on your blog: **
+
+Many bloggers fail to include social sharing buttons on their blogs and this is costing these bloggers social shares, exposure, and traffic. While it is not clear to what extent, research shows that adding social share buttons to your page will lead to more shares of your content and as a result increased traffic.
 
 ![th.jpg](/uploads/th.jpg)
 
-**Make money blogging: **Browse a few alternatives to adapt your blog.
+**Make money blogging: **
 
-[How to make money blogging](https://www.internetdailydeals.com/how-to-make-money-blogging)
+Browse a few alternatives to adapt your blog.
+
+[How to make money blogging](https://internetdailydeals.com/2020/01/02/how-to-make-money-blogging.html)
 
 Happy blogging!!!
