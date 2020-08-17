@@ -16,7 +16,7 @@ For this post, I’m going to take a deep dive into 12 different strategies that
 
 Now let’s get right down to it. Here’s how to make money online.
 
-1. ## Paid Market Research
+## 1.Paid Market Research
 
 Google “how to make money online,” and one of the first things you see is sites promoting paid market research.
 
@@ -392,5 +392,5 @@ Some techniques can potentially provide a full-time income, while others are mor
 
 Crushing it with these techniques is all about figuring out what you’re good at and passionate about and aligning it with your personal business goals.
 
-***Image Credits\
-**Featured image: [Fancycrave.com](https://www.pexels.com/@fancycrave) / [Pexels](https://www.pexels.com/photo/man-using-laptop-computer-1308625/)*
+\*\*\*Image Credits\
+\**Featured image: [Fancycrave.com](https://www.pexels.com/@fancycrave) / [Pexels](https://www.pexels.com/photo/man-using-laptop-computer-1308625/)*
