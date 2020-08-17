@@ -42,7 +42,7 @@ This arrangement is nice not only because it is hands-off, but because you are d
 
 ## How much can you make?
 
-The amount that you can make from **AdSense **depends on three factors:
+The amount that you can make from \*\*AdSense \*\*depends on three factors:
 
 ### 1. The number of visitors to your blog
 
@@ -73,5 +73,3 @@ Learning how to make money with a blog is the final step in my tutorial on how t
 **Related Topic:**
 
 [15 Best Website Builders (Free and Paid)](2020/02/13/best-website-builders-free-and-paid.html)
-
-\
