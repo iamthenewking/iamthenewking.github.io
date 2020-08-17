@@ -1,7 +1,7 @@
 ---
 title: 12 Legitimate Strategies to Make Money Online
 date: 2020-01-02 17:35:00 Z
-image: uploads/How-to-make-money-online-770x450-37whoatrq8mg1gzekfble2.png
+image: uploads/How-to-make-money-online-770x450-37whoatrq8mg1gzekfble2-eea5d5.png
 featured: true
 layout: post-right-sidebar
 ---
