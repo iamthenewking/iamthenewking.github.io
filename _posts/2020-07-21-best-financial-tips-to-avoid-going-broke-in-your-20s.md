@@ -30,7 +30,7 @@ Doing the math, this records for well over a thousand dollars consistently.
 
 Investigate all the things you go through cash every month. [Mint ](https://www.mint.com/)is an extraordinary tool for this. When you have everything separated, consider which costs you could live without, and which you can diminish.
 
-For example, you should keep your gym membership however perhaps you can locate a less expensive one in the area. Or on the other hand, you might choose to dump your cable and split the expense of a [Netflix](http://www.netflix.com/) account with a friend or install [Netflix Party](https://www.netflixparty.com/) to watch Netflix with your friends online
+For example, you should keep your gym membership however perhaps you can locate a less expensive one in the area. Or on the other hand, you might choose to dump your cable and split the expense of a [Netflix ](https://netflix.com)account with a friend or install [Netflix Party](https://www.netflixparty.com/) to watch Netflix with your friends online
 
 Get imaginative and consider ways you can reduce. It probably won't appear to be a tremendous deal. yet sooner or later, it truly adds up
 
