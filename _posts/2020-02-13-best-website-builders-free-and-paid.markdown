@@ -484,4 +484,4 @@ The basic version has limited features and it is free. JimdoPro starts at **$7.5
 
 **Advertisement:**
 
-![vtads.jpg](/uploads/vtads.jpg)
+[![vtads.jpg](/uploads/vtads.jpg)](https://virtualoustech.com/)
