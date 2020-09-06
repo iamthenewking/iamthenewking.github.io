@@ -8,6 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+  featured: Featued
+    output : true
 name: internetdailydeals
 description: Deals Guides and Tips
 meta_description: Deals Guides and Tips to Save and Make Money Every Day
