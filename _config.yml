@@ -1,7 +1,7 @@
 ---
 title: Internet Daily Deals
 timezone: UTC
-collections:
+metadata:
   posts:
     title: Posts
     output: true
@@ -10,28 +10,6 @@ collections:
     output: true
   featured: Featured
     output : true
-    
-    
-    metadata:
-    _posts:
-      - title : "Post"
-        field:
-          element: ""
-          value: "blog"
-      - name: "layout"
-        field:
-          element: ""
-          value: "blog"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-    
-    
-    
-    
-    
     
     
 name: internetdailydeals
