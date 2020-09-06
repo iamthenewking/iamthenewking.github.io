@@ -8,8 +8,32 @@ collections:
   uploads:
     title: Uploads
     output: true
-  featured: Featued
+  featured: Featured
     output : true
+    
+    
+    metadata:
+    _posts:
+      - title : "Post"
+        field:
+          element: ""
+          value: "blog"
+      - name: "layout"
+        field:
+          element: ""
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+    
+    
+    
+    
+    
+    
+    
 name: internetdailydeals
 description: Deals Guides and Tips
 meta_description: Deals Guides and Tips to Save and Make Money Every Day
